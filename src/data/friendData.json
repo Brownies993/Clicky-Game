@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "/assets/images/alberto-restifo-4508-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/alexander-andrews-340055-unsplash 7.03.01 PM.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/alexander-andrews-636454-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/andrew-neel-133200-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/annie-spratt-161511-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/bryan-minear-325881-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/dariusz-sankowski-56725-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/davide-ragusa-2238-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/erwan-hesry-166245-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/joshua-newton-275881-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/lum3n-187468-unsplash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/martin-jernberg-197949-unsplash.jpg",
+    "clicked": false
+  }
+]
